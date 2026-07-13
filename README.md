@@ -1,2 +1,2 @@
 # Marwan28.github.io
-Waraqty app support and privacy pages
+Waraqty & AM Player apps support and privacy pages
